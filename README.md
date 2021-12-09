@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amgdRaghed
 - 👀 I’m interested in Embedded Software Engineering
-- 🌱 I’m currently learning Microcontroller Architecture and Interfacing with ARM Cortix
+- 🌱 I’m currently learning Microcontroller Architecture and Interfacing with ARM Cortex
 - 💞️ I’m looking to collaborate on Embedded Projects
 - 📫 How to reach me amgdRaghed@gmail.com
 
